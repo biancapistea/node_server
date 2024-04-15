@@ -1,0 +1,8 @@
+
+Fdocker:S6596")Use a specific version tag for the image.(ğèÚÎıÿÿÿÿ
+Jdocker:S6476"-Replace `From` with upper case format `FROM`.(ğèÚÎıÿÿÿÿ
+Ddocker:S6476"-Replace `Copy` with upper case format `COPY`.(ËØ¥9
+Pdocker:S6476"3Replace `Workdir` with upper case format `WORKDIR`.(‘ÂšÂüÿÿÿÿ
+Hdocker:S6476"+Replace `run` with upper case format `RUN`.(åÀÉ‚úÿÿÿÿ
+Idocker:S6476"1Replace `expose` with upper case format `EXPOSE`.(×ËÚÓ
+Bdocker:S6476"+Replace `cmd` with upper case format `CMD`.(ç³ù@
